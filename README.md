@@ -21,14 +21,5 @@ I'm a frontend developer passionate about building responsive, interactive, and 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kierjohn1995@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-6FBD7E?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016227f046b71e746c)
 
----
 
-## GitHub Stats
 
-![Kier John's GitHub stats](https://github-readme-stats.vercel.app/api?username=kierjohn1995&show_icons=true&theme=dark&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kierjohn1995&layout=compact&theme=dark)
-
----
-
-## Currently Learning
-- Next.js, Advanced TypeScript patterns, and modern CSS animations.
